@@ -1,2 +1,3 @@
 # Beagle_Linux_Daniel_Patzer
-Was geht abbb
+This is my Homework Repo 
+Daniel Patzer
