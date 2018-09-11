@@ -1,5 +1,5 @@
 # etch-a-sketch program
-This is a simple etch-a-sketch program for Homework 2 /n
+This is a simple etch-a-sketch program for Homework 2 \n
 Please enter a single number for the horizontal and vertical grid size (size 5-30 recommended) 
 
 Use the four push buttons to change the current position
