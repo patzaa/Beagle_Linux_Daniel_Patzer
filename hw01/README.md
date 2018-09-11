@@ -1,5 +1,4 @@
-
-#Etch-a-Sketch
+# Etch-a-Sketch
 
 This is a simple Etch-a-Sketch Program in Python
 
