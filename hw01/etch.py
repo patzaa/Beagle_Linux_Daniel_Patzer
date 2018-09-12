@@ -2,6 +2,9 @@
 import pygame, sys
 from pygame.locals import *
 
+print("This is a simple etch-a-sketch program with pygame.")
+print("us the arrow keys to control the position")
+
 #initialize the starting Point
 x=150
 y=100
@@ -13,6 +16,8 @@ screen = pygame.display.set_mode((300,200))
 
 clock = pygame.time.Clock()
 screen.fill((221,221,221)) #color light gray
+
+print("Programm running...")
 
 #Start main thread
 while 1:
