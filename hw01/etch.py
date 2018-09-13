@@ -1,4 +1,4 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 import pygame, sys
 from pygame.locals import *
 
@@ -22,7 +22,7 @@ print("Programm running...")
 #Start main thread
 while 1:
     clock.tick(60)
-    pygame.draw.triangle(screen,(0,0,0), (x,y), 2)
+    pygame.draw.circle(screen,(0,0,0), (x,y), 2)
     pygame.display.update()
    
    
