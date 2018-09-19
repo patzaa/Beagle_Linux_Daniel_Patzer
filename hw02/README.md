@@ -18,3 +18,7 @@ Good start, but I don't see your comparison tables or answers to questions.
 Show me your tables and I'll give you some points back.
 
 Score:5/10
+
+I found the tables and questions.  Thanks...
+
+Score:  9/10
