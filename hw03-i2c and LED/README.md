@@ -11,7 +11,7 @@ shell script to read the values of two TMP101 sensors connected to the i2c bus, 
 # etch_encoder.py <br />
 This is a simple etch-a-sketch program running on the 8x8 Matrix controlled by two rotational encoders. The two buttons are used for reset and quitting the game. <br />
 execute the setup.sh in ~/exercises/sensors/eQEP otherwise the second encoder will not work. <br />
-Pinning from the encoder are: <br />
+Pinning for the encoder are: <br />
 P8_33, P8_35 for eQEP1<br />
 P8_41, P8_42 for eQEP2<br />
 
