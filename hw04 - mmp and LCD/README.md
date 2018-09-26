@@ -16,3 +16,9 @@ The gpio_toggle.c file toggles the internal LED USRA3 <br />
 •	off.sh can be executed to shut off the LCD. <br />
 •	install.sh is install file to install all necessary packages for the display <br />
 
+========================
+Professor Yoder's Comments
+
+Looks good.  Did you measure how fast you can toggle with mmap()?
+
+Score:  9/10
