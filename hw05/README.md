@@ -17,3 +17,12 @@ In directory Kernel/gpio_test you will find gpio_test.c. This file uses the kern
 
 
 Directory Kernel/ebbchar is a LKM to communicate with the Kernel. It is part of the second tutorial provided by Derek Molloy) <br />
+
+========================
+Professor Yoder's Comments
+
+Looks good.  
+
+I don't see where you compiled a new kernel and got it installed.
+
+Score:  8/10
