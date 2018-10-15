@@ -11,3 +11,9 @@ Blynk is a simple way to use a device such as a smartphone to control you Beagle
 
 The slider.js is a simple file which controls the brightness of an external LED attached to ‘P9_14’ via the Blynk app. Additionally the slider value get printed to the console (Range 0-1023). 
 
+========================
+Professor Yoder's Comments
+
+Score:  10/10
+
+Need project Executive Summary.
