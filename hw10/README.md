@@ -11,3 +11,11 @@ it will plot 30 values to the google sheet over a duration of 6 minutes. <br />
 
 My google sheet: https://docs.google.com/spreadsheets/d/1TM4lppF1xGCHpqRQQF47vta3EIFgwXlLF-JYvDOCu-o/edit#gid=0 <br />  
 
+========================
+Professor Yoder's Comments
+
+Waiting for permission.
+Using a shell script and python seems awkward.
+
+
+Score:  ?/10

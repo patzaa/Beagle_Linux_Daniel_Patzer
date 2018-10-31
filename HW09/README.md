@@ -22,3 +22,11 @@ pwm5.c
 
 # 5.9 Reading an Input at Regular Intervals
 input1.c
+
+========================
+Professor Yoder's Comments
+
+Looks good.  The cellphone pictures are fine. 
+
+Late: -1
+Score:  9/10
