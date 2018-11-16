@@ -14,4 +14,6 @@ How do I install pygame?
 I'm getting an error: AttributeError: module 'pygame.draw' has no attribute 'triangle'
 
 
-Score:  5/10
+Score:  8/10
+
+Update:  16-Dec-2018.  It works!
